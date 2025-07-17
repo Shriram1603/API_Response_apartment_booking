@@ -1,6 +1,4 @@
-Here are the necessary API contracts for the **System Management** page (cities, apartments, flats, rooms, beds CRUD) in Markdown format, based on your UI and normalized PostgreSQL schema:
 
----
 
 # Accommodation Management API Contracts
 
